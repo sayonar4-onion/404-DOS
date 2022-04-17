@@ -20,7 +20,7 @@ month = now.month
 year = now.year
 
 #socket
-sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM, socket.SOCK_STREAM)
+sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(10000)
 timeout =  time.time() 
 
