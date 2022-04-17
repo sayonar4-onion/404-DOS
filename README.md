@@ -1,4 +1,4 @@
-#TEAM 404 DOS
+# TEAM 404 DOS
 
 #### *COMANDOS*  
  - `apt install python`
