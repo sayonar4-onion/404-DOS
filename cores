@@ -1,0 +1,11 @@
+#cores
+
+Azul = \033[94m
+
+Verde = \033[92m
+
+Amarelo = \033[93m
+
+Vermelho = \033[91m
+
+Fim = \033[0m
