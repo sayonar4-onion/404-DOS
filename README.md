@@ -7,6 +7,16 @@
 
 ![[Criado](https://github.com/sayonar4-onion)](http://img.shields.io/badge/Criado_Pela_Team_404_The_Hell-orange.svg)
 
+#
+> **TEAM 404**
+> - - **Codigo criado pela 404**
+> - - **Author Sayonar4-onion**  
+
+> **CODDED**
+> - - **License Apache**
+> - - **Leng Python 2.7**
+#
+
 # TEAM 404 DOS
 
 # 🇭🇷
