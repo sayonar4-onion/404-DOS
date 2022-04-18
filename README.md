@@ -20,6 +20,7 @@
  - `chmod +x 404DOS.py`
  - `python2 404DOS.py`  
 
+#
 > **ANDROID**
 > - - [x] **KALI NETHUNTER**
 > - - [x] **TERMUX**  
@@ -46,5 +47,7 @@
 ꪶ🇭🇷 SAD @404 ~$ ꫂ
 ꪶ🇭🇷 CHAULIN @404 ~$ ꫂ
 ꪶ🇭🇷 HENRIQUE @404 ~$ ꫂ
-
 ```
+#
+
+# Obrigado por usar nosso sistema
