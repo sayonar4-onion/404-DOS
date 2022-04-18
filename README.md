@@ -9,12 +9,12 @@
 
 #
 > **TEAM 404**
-> -**Codigo criado pela 404**
-> -**Author Sayonar4-onion**  
+> - **Codigo criado pela 404**
+> - **Author Sayonar4-onion**  
 
 > **CODIGO**
-> -**License Apache**
-> -**Leng Python 2.7**
+> - **License Apache**
+> - **Leng Python 2.7**
 #
 
 # TEAM 404 DOS
