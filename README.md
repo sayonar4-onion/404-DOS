@@ -1,4 +1,4 @@
-[![ForTheBadge built-by-Team_404_hell](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/Gameye98)  
+[![ForTheBadge built-by-Team_404_hell](http://ForTheBadge.com/images/badges/Feito-pela-Team-404.svg)](https://github.com/Sayonar4-onion)  
 
 ![[Python 2.7](https://github.com/sayonar4-onion)](http://img.shields.io/badge/python-2.7-blue.svg)
 ![[Version 1.0](https://github.com/sayonar4-onion)](http://img.shields.io/badge/version-v1.0-orange.svg)
