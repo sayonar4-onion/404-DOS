@@ -12,9 +12,9 @@
 > - - **Codigo criado pela 404**
 > - - **Author Sayonar4-onion**  
 
-> **CODDED**
-> **License Apache**
-> **Leng Python 2.7**
+> **CODIGO**
+> - **License Apache**
+> - **Leng Python 2.7**
 #
 
 # TEAM 404 DOS
