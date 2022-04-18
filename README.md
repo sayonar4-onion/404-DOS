@@ -7,7 +7,9 @@
 
 ![[Criado](https://github.com/sayonar4-onion)](http://img.shields.io/badge/Criado_Pela_Team_404_The_Hell-orange.svg)
 
-# TEAM 404 DOS 🇭🇷
+# TEAM 404 DOS
+
+# 🇭🇷
 
 #### *COMANDOS*  
  - `apt install python`
