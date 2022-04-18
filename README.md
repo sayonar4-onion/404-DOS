@@ -4,6 +4,7 @@
 ![[Team](https://github.com/sayonar4-onion)](http://img.shields.io/badge/Team-404-green.svg)
 ![[codded-by](https://github.com/sayonar4-onion)](http://img.shields.io/badge/Codded-Sayonar4-red.svg)
 ![[license](https://github.com/sayonar4-onion)](http://img.shields.io/badge/License-Apache-pink.svg)
+![[Chat](https://github.com/sayonar4-onion)](http://img.shields.io/badge/Chat-Igreja_Da_Misoginia-blue.svg)
 
 ![[Criado](https://github.com/sayonar4-onion)](http://img.shields.io/badge/Criado_Pela_Team_404_The_Hell-orange.svg)
 
