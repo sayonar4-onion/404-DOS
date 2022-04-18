@@ -3,7 +3,7 @@
 ![[Date](https://github.com/sayonar4-onion)](http://img.shields.io/badge/date-17/04/2022-yellow.svg)
 ![[Team](https://github.com/sayonar4-onion)](http://img.shields.io/badge/Team-404-green.svg)
 
-# TEAM 404 DOS
+# TEAM 404 DOS 🇭🇷
 
 #### *COMANDOS*  
  - `apt install python`
