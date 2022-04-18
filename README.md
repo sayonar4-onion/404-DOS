@@ -43,21 +43,18 @@
 
 #### *Agradecimentos*
 ```
-ꪶ🇭🇷 KOPPY @404 ~$ ꫂ
-ꪶ🇭🇷 GHOST @404 ~$ ꫂ
-ꪶ🇭🇷 SHEIK @404 ~$ ꫂ
-ꪶ🇭🇷 NOCALT @404 ~$ ꫂ
-ꪶ🇭🇷 SHELBY @404 ~$ ꫂ
-ꪶ🇭🇷 DID @404 ~$ ꫂ
-ꪶ🇭🇷 HADES @404 ~$ ꫂ
-ꪶ🇭🇷 TODDY @404 ~$ ꫂ
-ꪶ🇭🇷 MIZUMARU @404 ~$ ꫂ
-ꪶ🇭🇷 SADZIN @404 ~$ ꫂ
-ꪶ🇭🇷 NARUTAO @404 ~$ ꫂ
-ꪶ🇭🇷 SCRIPT @404 ~$ ꫂ
-ꪶ🇭🇷 SAD @404 ~$ ꫂ
-ꪶ🇭🇷 CHAULIN @404 ~$ ꫂ
-ꪶ🇭🇷 HENRIQUE @404 ~$ ꫂ
+ꪶ🇭🇷 KOPPY @404 ~$ ꫂ ꪶ🇭🇷 HENRIQUE @404 ~$ ꫂ
+ꪶ🇭🇷 GHOST @404 ~$ ꫂ ꪶ🇭🇷 DID @404 ~$ ꫂ
+ꪶ🇭🇷 SHEIK @404 ~$ ꫂ ꪶ🇭🇷 SHELBY @404 ~$ ꫂ
+ꪶ🇭🇷 NOCALT @404 ~$ ꫂ ꪶ🇭🇷 MIZUMARU @404 ~$ ꫂ
+ꪶ🇭🇷 HADES @404 ~$ ꫂ ꪶ🇭🇷 CHAULIN @404 ~$ ꫂ
+ꪶ🇭🇷 TODDY @404 ~$ ꫂ ꪶ🇭🇷 SAD @404 ~$ ꫂ
+ꪶ🇭🇷 SADZIN @404 ~$ ꫂ ꪶ🇭🇷 SCRIPT @404 ~$ ꫂ
+ꪶ🇭🇷 NARUTAO @404 ~$ ꫂ ꪶ🇭🇷 RUSH @404 ~$ ꫂ
+
+
+
+
 ```
 #
 
