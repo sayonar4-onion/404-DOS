@@ -13,8 +13,8 @@
 > - - **Author Sayonar4-onion**  
 
 > **CODDED**
-> - - **License Apache**
-> - - **Leng Python 2.7**
+> **License Apache**
+> **Leng Python 2.7**
 #
 
 # TEAM 404 DOS
