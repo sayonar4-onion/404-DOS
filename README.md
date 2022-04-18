@@ -5,6 +5,8 @@
 ![[codded-by](https://github.com/sayonar4-onion)](http://img.shields.io/badge/Codded-Sayonar4-red.svg)
 ![[license](https://github.com/sayonar4-onion)](http://img.shields.io/badge/License-Apache-pink.svg)
 
+![[by](https://github.com/sayonar4-onion)](http://img.shields.io/badge/Criado-Pela-Team-404-blue.svg)
+
 # TEAM 404 DOS 🇭🇷
 
 #### *COMANDOS*  
