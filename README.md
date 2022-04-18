@@ -2,7 +2,7 @@
 ![[Version 1.0](https://github.com/sayonar4-onion)](http://img.shields.io/badge/version-v1.0-orange.svg)
 ![[Date](https://github.com/sayonar4-onion)](http://img.shields.io/badge/date-17/04/2022-yellow.svg)
 ![[Team](https://github.com/sayonar4-onion)](http://img.shields.io/badge/Team-404-green.svg)
-![[codded-by](https://github.com/sayonar4-onion)](http://img.shields.io/badge/Sayonar4-red.svg)
+![[codded-by](https://github.com/sayonar4-onion)](http://img.shields.io/badge/Codded-Sayonar4-red.svg)
 
 # TEAM 404 DOS 🇭🇷
 
